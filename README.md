@@ -1,6 +1,7 @@
 # Sherdog-MMA-Scraping
 
-Made in February 2015
+Made in February 2015.
+
 This program scrapes UFC fight data off [Sherdog](http://www.sherdog.com/), and puts it in a useable format:
 
 |Date|FighterA|FighterB|FighterA Height|fighterA Age|...|Winner|Method| 
